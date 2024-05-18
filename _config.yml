@@ -1,1 +1,1 @@
-include: [".ipynb_checkpoints"]
+include: ["_notebooks"]
